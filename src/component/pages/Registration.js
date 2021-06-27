@@ -402,7 +402,7 @@ const Registeration = () => {
                                                     placeholder=""
                                                     required
                                                     onChange={inputEvent}
-                                                    value={values.firstName}
+                                                    // value={values.firstName}
                                                     value={updateValue.firstName}
                                                 />
                                                 {errors.firstName && <p>{errors.firstName}</p>}
@@ -422,7 +422,7 @@ const Registeration = () => {
                                                     placeholder=""
                                                     required
                                                     onChange={inputEvent}
-                                                    value={values.firstName}
+                                                    // value={values.firstName}
                                                     value={updateValue.lastName}
                                                 />
                                                 {errors.lastName && <p>{errors.lastName}</p>}
@@ -471,7 +471,7 @@ const Registeration = () => {
                                                     placeholder=""
                                                     required
                                                     onChange={inputEvent}
-                                                    value={values.firstName}
+                                                    // value={values.fatherFirstName}
                                                     value={updateValue.fatherFirstName}
                                                 />
                                                 {errors.fatherFirstName && <p>{errors.fatherFirstName}</p>}
@@ -513,7 +513,7 @@ const Registeration = () => {
                                                     placeholder=""
                                                     required
                                                     onChange={inputEvent}
-                                                    value={values.villageName}
+                                                    // value={values.villageName}
                                                     value={updateValue.villageName}
                                                 />
                                                 {errors.villageName && <p>{errors.villageName}</p>}
@@ -532,7 +532,7 @@ const Registeration = () => {
                                                     placeholder=""
                                                     required
                                                     onChange={inputEvent}
-                                                    value={values.townName}
+                                                    // value={values.townName}
                                                     value={updateValue.townName}
                                                 />
                                                 {errors.townName && <p>{errors.townName}</p>}
