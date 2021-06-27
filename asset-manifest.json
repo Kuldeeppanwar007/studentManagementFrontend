@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/studentManagementFrontend/static/css/main.b1d4e43e.chunk.css",
+    "main.js": "/studentManagementFrontend/static/js/main.81beaa12.chunk.js",
+    "main.js.map": "/studentManagementFrontend/static/js/main.81beaa12.chunk.js.map",
+    "runtime-main.js": "/studentManagementFrontend/static/js/runtime-main.2c25beb9.js",
+    "runtime-main.js.map": "/studentManagementFrontend/static/js/runtime-main.2c25beb9.js.map",
+    "static/css/2.56001c6a.chunk.css": "/studentManagementFrontend/static/css/2.56001c6a.chunk.css",
+    "static/js/2.9fdbbe82.chunk.js": "/studentManagementFrontend/static/js/2.9fdbbe82.chunk.js",
+    "static/js/2.9fdbbe82.chunk.js.map": "/studentManagementFrontend/static/js/2.9fdbbe82.chunk.js.map",
+    "index.html": "/studentManagementFrontend/index.html",
+    "static/css/2.56001c6a.chunk.css.map": "/studentManagementFrontend/static/css/2.56001c6a.chunk.css.map",
+    "static/css/main.b1d4e43e.chunk.css.map": "/studentManagementFrontend/static/css/main.b1d4e43e.chunk.css.map",
+    "static/js/2.9fdbbe82.chunk.js.LICENSE.txt": "/studentManagementFrontend/static/js/2.9fdbbe82.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/studentManagementFrontend/static/media/clg.8cda7aa3.jpg",
+    "static/media/logo1.543b4154.jpg": "/studentManagementFrontend/static/media/logo1.543b4154.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c25beb9.js",
+    "static/css/2.56001c6a.chunk.css",
+    "static/js/2.9fdbbe82.chunk.js",
+    "static/css/main.b1d4e43e.chunk.css",
+    "static/js/main.81beaa12.chunk.js"
+  ]
+}
