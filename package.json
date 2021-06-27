@@ -1,7 +1,8 @@
 {
   "name": "student-app",
   "version": "0.1.0",
-  "proxy": "http://localhost:7007",
+  "homepage":"https://kuldeeppanwar007.github.io/studentManagementFrontend/",
+  "proxy": "https://ssismstudent.azurewebsites.net/",
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^2.6.0",
@@ -49,6 +50,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.2"
+    "gh-pages": "^3.2.3"
   }
 }
