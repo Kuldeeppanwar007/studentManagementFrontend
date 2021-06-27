@@ -20,28 +20,28 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <NavLink className="nav-link active" aria-current="page" to="/">Home</NavLink>
+                <NavLink className="nav-link active" aria-current="page" to="/studentManagementFrontend/">Home</NavLink>
                 
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link active" aria-current="page" to="/Registration">register</NavLink>
+                <NavLink className="nav-link active" aria-current="page" to="/studentManagementFrontend/Registration">register</NavLink>
                 
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link active" to="/Login">login</NavLink>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/Login">login</NavLink>
               </li>
               {/* <li className="nav-item">
                 <a className="nav-link active" to="/DocumentUpload">upload document</a>
               </li> */}
               <li className="nav-item">
-                <NavLink className="nav-link active" to="/PesonalInfo">Personal Information</NavLink>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/PesonalInfo">Personal Information</NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link active" to="/Payment">Payment</NavLink>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/Payment">Payment</NavLink>
               </li>
               
               <li className="nav-item">
-                <NavLink className="nav-link active" to="/documentUpload">DocumentUpload</NavLink>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/documentUpload">DocumentUpload</NavLink>
               </li>
               
               {/* <li className="nav-item">
