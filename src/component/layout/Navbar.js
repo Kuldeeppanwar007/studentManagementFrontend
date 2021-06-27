@@ -19,33 +19,33 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">Home</a>
+                <a className="nav-link active" aria-current="page" href="/studentManagementFrontend/">Home</a>
                 
               </li>
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/Registration">register</a>
+                <a className="nav-link active" aria-current="page" href="/studentManagementFrontend/Registration">register</a>
                 
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="/Login">login</a>
+                <a className="nav-link active" href="/studentManagementFrontend/Login">login</a>
               </li>
               {/* <li className="nav-item">
                 <a className="nav-link active" href="/DocumentUpload">upload document</a>
               </li> */}
               <li className="nav-item">
-                <a className="nav-link active" href="/PesonalInfo">Personal Information</a>
+                <a className="nav-link active" href="/studentManagementFrontend/PesonalInfo">Personal Information</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="/Payment">Payment</a>
-              </li>
-              
-              <li className="nav-item">
-                <a className="nav-link active" href="/documentUpload">DocumentUpload</a>
+                <a className="nav-link active" href="/studentManagementFrontend/Payment">Payment</a>
               </li>
               
               <li className="nav-item">
+                <a className="nav-link active" href="/studentManagementFrontend/documentUpload">DocumentUpload</a>
+              </li>
+              
+              {/* <li className="nav-item">
                 <a className="nav-link active" href="/Logout">Logout</a>
-              </li>
+              </li> */}
 
 
             </ul>
