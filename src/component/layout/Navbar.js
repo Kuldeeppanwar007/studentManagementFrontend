@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from 'react-router-dom'
 import logo from "../../images/logo.png"
 // import './Navbar.css'
 
@@ -19,32 +20,32 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/studentManagementFrontend/">Home</a>
+                <NavLink className="nav-link active" aria-current="page" to="/studentManagementFrontend/">Home</NavLink>
                 
               </li>
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/studentManagementFrontend/Registration">register</a>
+                <NavLink className="nav-link active" aria-current="page" to="/studentManagementFrontend/Registration">register</NavLink>
                 
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="/studentManagementFrontend/Login">login</a>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/Login">login</NavLink>
               </li>
               {/* <li className="nav-item">
-                <a className="nav-link active" href="/DocumentUpload">upload document</a>
+                <a className="nav-link active" to="/DocumentUpload">upload document</a>
               </li> */}
               <li className="nav-item">
-                <a className="nav-link active" href="/studentManagementFrontend/PesonalInfo">Personal Information</a>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/PesonalInfo">Personal Information</NavLink>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="/studentManagementFrontend/Payment">Payment</a>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/Payment">Payment</NavLink>
               </li>
               
               <li className="nav-item">
-                <a className="nav-link active" href="/studentManagementFrontend/documentUpload">DocumentUpload</a>
+                <NavLink className="nav-link active" to="/studentManagementFrontend/documentUpload">DocumentUpload</NavLink>
               </li>
               
               {/* <li className="nav-item">
-                <a className="nav-link active" href="/Logout">Logout</a>
+                <a className="nav-link active" to="/Logout">Logout</a>
               </li> */}
 
 
