@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/studentManagementFrontend/static/css/main.b1d4e43e.chunk.css",
-    "main.js": "/studentManagementFrontend/static/js/main.81beaa12.chunk.js",
-    "main.js.map": "/studentManagementFrontend/static/js/main.81beaa12.chunk.js.map",
+    "main.js": "/studentManagementFrontend/static/js/main.12766dd9.chunk.js",
+    "main.js.map": "/studentManagementFrontend/static/js/main.12766dd9.chunk.js.map",
     "runtime-main.js": "/studentManagementFrontend/static/js/runtime-main.2c25beb9.js",
     "runtime-main.js.map": "/studentManagementFrontend/static/js/runtime-main.2c25beb9.js.map",
     "static/css/2.56001c6a.chunk.css": "/studentManagementFrontend/static/css/2.56001c6a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.56001c6a.chunk.css",
     "static/js/2.9fdbbe82.chunk.js",
     "static/css/main.b1d4e43e.chunk.css",
-    "static/js/main.81beaa12.chunk.js"
+    "static/js/main.12766dd9.chunk.js"
   ]
 }
