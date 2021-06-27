@@ -26,13 +26,13 @@ const App = ()=> {
       <Router>
         <Navbar />
       <Switch>
-        <Route exact path="/studentManagementFrontend/"  component={Home} />
-      <Route exact path="/studentManagementFrontend/Registration" component ={Registration} />
-      <Route exact path="/studentManagementFrontend/Login" component ={Login} />
-      <Route exact path="/studentManagementFrontend/DocumentUpload" component ={DocumentUpload} />
-      <Route exact path="studentManagementFrontend//Logout" component ={Logout} />
-      <Route exact path="/studentManagementFrontend/PesonalInfo" component={PersonalInfo } />
-      <Route exact path="/studentManagementFrontend/Payment" component={Payment} />
+        <Route exact path="/"  component={Home} />
+      <Route exact path="/Registration" component ={Registration} />
+      <Route exact path="/Login" component ={Login} />
+      <Route exact path="/DocumentUpload" component ={DocumentUpload} />
+      <Route exact path="/Logout" component ={Logout} />
+      <Route exact path="/PesonalInfo" component={PersonalInfo } />
+      <Route exact path="/Payment" component={Payment} />
       </Switch>
       {/* <Registeration /> */}
       <Footer />
