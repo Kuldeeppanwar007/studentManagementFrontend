@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/studentManagementFrontend/static/css/main.b1d4e43e.chunk.css",
-    "main.js": "/studentManagementFrontend/static/js/main.cc6d05e8.chunk.js",
-    "main.js.map": "/studentManagementFrontend/static/js/main.cc6d05e8.chunk.js.map",
-    "runtime-main.js": "/studentManagementFrontend/static/js/runtime-main.2c25beb9.js",
-    "runtime-main.js.map": "/studentManagementFrontend/static/js/runtime-main.2c25beb9.js.map",
-    "static/css/2.56001c6a.chunk.css": "/studentManagementFrontend/static/css/2.56001c6a.chunk.css",
-    "static/js/2.342b747b.chunk.js": "/studentManagementFrontend/static/js/2.342b747b.chunk.js",
-    "static/js/2.342b747b.chunk.js.map": "/studentManagementFrontend/static/js/2.342b747b.chunk.js.map",
-    "index.html": "/studentManagementFrontend/index.html",
-    "static/css/2.56001c6a.chunk.css.map": "/studentManagementFrontend/static/css/2.56001c6a.chunk.css.map",
-    "static/css/main.b1d4e43e.chunk.css.map": "/studentManagementFrontend/static/css/main.b1d4e43e.chunk.css.map",
-    "static/js/2.342b747b.chunk.js.LICENSE.txt": "/studentManagementFrontend/static/js/2.342b747b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/studentManagementFrontend/static/media/clg.8cda7aa3.jpg",
-    "static/media/logo1.543b4154.jpg": "/studentManagementFrontend/static/media/logo1.543b4154.jpg"
+    "main.css": "/static/css/main.f6dbaab8.chunk.css",
+    "main.js": "/static/js/main.d29dfb48.chunk.js",
+    "main.js.map": "/static/js/main.d29dfb48.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.214b346a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.214b346a.js.map",
+    "static/css/2.56001c6a.chunk.css": "/static/css/2.56001c6a.chunk.css",
+    "static/js/2.a4623fcf.chunk.js": "/static/js/2.a4623fcf.chunk.js",
+    "static/js/2.a4623fcf.chunk.js.map": "/static/js/2.a4623fcf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.56001c6a.chunk.css.map": "/static/css/2.56001c6a.chunk.css.map",
+    "static/css/main.f6dbaab8.chunk.css.map": "/static/css/main.f6dbaab8.chunk.css.map",
+    "static/js/2.a4623fcf.chunk.js.LICENSE.txt": "/static/js/2.a4623fcf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/clg.8cda7aa3.jpg",
+    "static/media/logo1.543b4154.jpg": "/static/media/logo1.543b4154.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c25beb9.js",
+    "static/js/runtime-main.214b346a.js",
     "static/css/2.56001c6a.chunk.css",
-    "static/js/2.342b747b.chunk.js",
-    "static/css/main.b1d4e43e.chunk.css",
-    "static/js/main.cc6d05e8.chunk.js"
+    "static/js/2.a4623fcf.chunk.js",
+    "static/css/main.f6dbaab8.chunk.css",
+    "static/js/main.d29dfb48.chunk.js"
   ]
 }
